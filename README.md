@@ -1,5 +1,4 @@
 # Tablut-Game
-[README (1).md](https://github.com/user-attachments/files/29606420/README.1.md)
 
 ### Initialization of Game
 
